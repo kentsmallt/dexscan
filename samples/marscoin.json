@@ -1,0 +1,1204 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x94f3ed36706c746ad59fadcaf271b7431ab1d8f1",
+      "pairAddress": "0x94F3ed36706c746ad59fAdCAF271b7431AB1D8F1",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0xbe9D156892E55e7154BcD3cB0FEA677F9D3103E1",
+        "name": "SpaceX",
+        "symbol": "SPCXB"
+      },
+      "priceNative": "0.0004820",
+      "priceUsd": "0.06837",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 2
+        },
+        "h1": {
+          "buys": 45,
+          "sells": 42
+        },
+        "h6": {
+          "buys": 444,
+          "sells": 363
+        },
+        "h24": {
+          "buys": 8364,
+          "sells": 5249
+        }
+      },
+      "volume": {
+        "h24": 9438057.28,
+        "h6": 362110.99,
+        "h1": 41323.96,
+        "m5": 1746.55
+      },
+      "priceChange": {
+        "m5": -0.55,
+        "h1": 0.91,
+        "h6": 2.19,
+        "h24": 34.16
+      },
+      "liquidity": {
+        "usd": 1265517.04,
+        "base": 9254559,
+        "quote": 4461.02989
+      },
+      "fdv": 68346111,
+      "marketCap": 68346111,
+      "pairCreatedAt": 1785158591000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x14ca9d552ed2cf0d5dfd1f89bc6793a464e2ed16",
+      "pairAddress": "0x14ca9d552eD2CF0D5dFD1f89Bc6793a464e2ed16",
+      "labels": [
+        "v3"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      "priceNative": "0.06793",
+      "priceUsd": "0.06793",
+      "txns": {
+        "m5": {
+          "buys": 49,
+          "sells": 22
+        },
+        "h1": {
+          "buys": 551,
+          "sells": 468
+        },
+        "h6": {
+          "buys": 3817,
+          "sells": 3154
+        },
+        "h24": {
+          "buys": 33663,
+          "sells": 25718
+        }
+      },
+      "volume": {
+        "h24": 20445330.88,
+        "h6": 2301542.92,
+        "h1": 387586.17,
+        "m5": 27289.53
+      },
+      "priceChange": {
+        "m5": -0.58,
+        "h1": 0.12,
+        "h6": 1.61,
+        "h24": 33.19
+      },
+      "liquidity": {
+        "usd": 281241.97,
+        "base": 1741417,
+        "quote": 162945
+      },
+      "fdv": 67904930,
+      "marketCap": 67904930,
+      "pairCreatedAt": 1785397624000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x4a4bea953813c118c260be9a26b2321e57aa62e5",
+      "pairAddress": "0x4A4Bea953813C118C260BE9A26B2321E57aA62e5",
+      "labels": [
+        "v3"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      "priceNative": "0.06804",
+      "priceUsd": "0.06804",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 3
+        },
+        "h1": {
+          "buys": 105,
+          "sells": 33
+        },
+        "h6": {
+          "buys": 833,
+          "sells": 518
+        },
+        "h24": {
+          "buys": 6800,
+          "sells": 4350
+        }
+      },
+      "volume": {
+        "h24": 8339429.99,
+        "h6": 617883.36,
+        "h1": 68563.36,
+        "m5": 1499.28
+      },
+      "priceChange": {
+        "m5": -0.22,
+        "h1": 0.97,
+        "h6": 1.51,
+        "h24": 33.56
+      },
+      "liquidity": {
+        "usd": 592585.23,
+        "base": 2851471,
+        "quote": 398547
+      },
+      "fdv": 68022033,
+      "marketCap": 68022033,
+      "pairCreatedAt": 1785249282000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/bsc/0xeee6c8b83be11e53388227f161ba9c0962e785df",
+      "pairAddress": "0xEEE6C8b83bE11E53388227F161ba9C0962e785Df",
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      "priceNative": "0.06803",
+      "priceUsd": "0.06803",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 2
+        },
+        "h1": {
+          "buys": 37,
+          "sells": 22
+        },
+        "h6": {
+          "buys": 442,
+          "sells": 343
+        },
+        "h24": {
+          "buys": 2976,
+          "sells": 1982
+        }
+      },
+      "volume": {
+        "h24": 1162483.54,
+        "h6": 162817.29,
+        "h1": 17382.04,
+        "m5": 436.5
+      },
+      "priceChange": {
+        "m5": -0.24,
+        "h1": 1,
+        "h6": 1.49,
+        "h24": 35.54
+      },
+      "liquidity": {
+        "usd": 112966,
+        "base": 522763,
+        "quote": 77400
+      },
+      "fdv": 68007317,
+      "marketCap": 68007317,
+      "pairCreatedAt": 1785408357000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x9e9b5d76a6a324f1df69d879b8602e4824d90c06",
+      "pairAddress": "0x9e9B5d76A6A324F1dF69d879B8602e4824D90C06",
+      "labels": [
+        "v3"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0xBEEA1D618e533a387D941F58a7d4c9b7bD377777",
+        "name": "牛来",
+        "symbol": "牛来"
+      },
+      "priceNative": "0.8067",
+      "priceUsd": "0.06764",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 18,
+          "sells": 7
+        },
+        "h6": {
+          "buys": 116,
+          "sells": 90
+        },
+        "h24": {
+          "buys": 877,
+          "sells": 769
+        }
+      },
+      "volume": {
+        "h24": 56533.15,
+        "h6": 4790.01,
+        "h1": 531.44,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": 0.99,
+        "h6": 0.48,
+        "h24": 34.06
+      },
+      "liquidity": {
+        "usd": 6372.57,
+        "base": 57263,
+        "quote": 29809
+      },
+      "fdv": 67613810,
+      "marketCap": 67613810,
+      "pairCreatedAt": 1787242194000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x204863ec129d2def697aa70333922482df50216f",
+      "pairAddress": "0x204863EC129D2dEf697aa70333922482dF50216F",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      "priceNative": "0.06759",
+      "priceUsd": "0.06759",
+      "txns": {
+        "m5": {
+          "buys": 1,
+          "sells": 3
+        },
+        "h1": {
+          "buys": 33,
+          "sells": 29
+        },
+        "h6": {
+          "buys": 236,
+          "sells": 221
+        },
+        "h24": {
+          "buys": 913,
+          "sells": 886
+        }
+      },
+      "volume": {
+        "h24": 4088.47,
+        "h6": 1038.02,
+        "h1": 158.04,
+        "m5": 8.95
+      },
+      "priceChange": {
+        "m5": -1.31,
+        "h1": 0.12,
+        "h6": 1.17,
+        "h24": 44.43
+      },
+      "liquidity": {
+        "usd": 1534.65,
+        "base": 11352,
+        "quote": 767.3255
+      },
+      "fdv": 67564851,
+      "marketCap": 67564851,
+      "pairCreatedAt": 1785945903000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/bsc/0x4ba740c0cccadaaec82f42ac6c9294106ff2713f",
+      "pairAddress": "0x4bA740C0cccadaaec82f42ac6C9294106ff2713f",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      "priceNative": "0.06760",
+      "priceUsd": "0.06760",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 1
+        },
+        "h1": {
+          "buys": 15,
+          "sells": 13
+        },
+        "h6": {
+          "buys": 27,
+          "sells": 29
+        },
+        "h24": {
+          "buys": 123,
+          "sells": 141
+        }
+      },
+      "volume": {
+        "h24": 61.07,
+        "h6": 43.22,
+        "h1": 40.49,
+        "m5": 1.57
+      },
+      "priceChange": {
+        "m5": -0.81,
+        "h1": 4.18,
+        "h24": 31.67
+      },
+      "liquidity": {
+        "usd": 774.55,
+        "base": 5728.3035,
+        "quote": 387.2796
+      },
+      "fdv": 67581871,
+      "marketCap": 67581871,
+      "pairCreatedAt": 1785252371000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0xb3df0ae7c844e902184699cc5f50f0c3f1a2f634",
+      "pairAddress": "0xB3dF0AE7c844E902184699cc5F50F0c3f1a2F634",
+      "labels": [
+        "v3"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0xBEEA1D618e533a387D941F58a7d4c9b7bD377777",
+        "name": "牛来",
+        "symbol": "牛来"
+      },
+      "priceNative": "0.8174",
+      "priceUsd": "0.07578",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 577,
+          "sells": 554
+        }
+      },
+      "volume": {
+        "h24": 19949.04,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h24": 51.33
+      },
+      "liquidity": {
+        "usd": 17.97,
+        "base": 119.2677,
+        "quote": 96.3811
+      },
+      "fdv": 75751615,
+      "marketCap": 75751615,
+      "pairCreatedAt": 1788193547000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x9f286c9bd510150c62a08da72af797ac45311ae0",
+      "pairAddress": "0x9F286C9Bd510150c62a08da72Af797Ac45311AE0",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB"
+      },
+      "priceNative": "0.00009740",
+      "priceUsd": "0.06700",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 1,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 10,
+          "sells": 11
+        },
+        "h24": {
+          "buys": 127,
+          "sells": 115
+        }
+      },
+      "volume": {
+        "h24": 1554.7,
+        "h6": 4.8,
+        "h1": 0.05,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": 4.67,
+        "h6": -0.83,
+        "h24": 33.8
+      },
+      "liquidity": {
+        "usd": 6.06,
+        "base": 45.2364,
+        "quote": 0.004406
+      },
+      "fdv": 66981387,
+      "marketCap": 66981387,
+      "pairCreatedAt": 1785260900000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/bsc/0xb08545a964dfa9eb3e89a2199b5a317a0c132766",
+      "pairAddress": "0xb08545A964dfa9eb3e89a2199B5A317a0C132766",
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      "priceNative": "0.07180",
+      "priceUsd": "0.07180",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 188,
+          "sells": 161
+        }
+      },
+      "volume": {
+        "h24": 2134.49,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h24": -5.06
+      },
+      "liquidity": {
+        "usd": 1.71,
+        "base": 14.7885,
+        "quote": 0.6514
+      },
+      "fdv": 71772339,
+      "marketCap": 71772339,
+      "pairCreatedAt": 1785407564000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/bsc/0x53b0199c4be6b799432fb87eb261d5709b685e6b",
+      "pairAddress": "0x53B0199C4bE6B799432Fb87EB261D5709B685e6b",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "quoteToken": {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB"
+      },
+      "priceNative": "0.00009640",
+      "priceUsd": "0.06559",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 1,
+          "sells": 1
+        },
+        "h24": {
+          "buys": 16,
+          "sells": 15
+        }
+      },
+      "volume": {
+        "h24": 34.64,
+        "h6": 0.04,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h6": -2.29,
+        "h24": 18.5
+      },
+      "liquidity": {
+        "usd": 0.75,
+        "base": 5.7511,
+        "quote": 0.0005544
+      },
+      "fdv": 65570538,
+      "marketCap": 65570538,
+      "pairCreatedAt": 1785161681000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x0a4afa130dc34bf40a3b9b715425e415f2ec1baf",
+      "pairAddress": "0x0A4afA130dc34bF40a3b9b715425E415f2Ec1baF",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x7A50AeeF23BE43009801944A9f3187025Df17777",
+        "name": "Game starts. Mars stops.",
+        "symbol": "Marstop"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.00003763",
+      "priceUsd": "0.000002564",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 1
+        },
+        "h6": {
+          "buys": 8,
+          "sells": 6
+        },
+        "h24": {
+          "buys": 47,
+          "sells": 48
+        }
+      },
+      "volume": {
+        "h24": 171.31,
+        "h6": 20.93,
+        "h1": 0.82,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": -0.3,
+        "h6": 4.98,
+        "h24": 5.81
+      },
+      "liquidity": {
+        "usd": 385.02,
+        "base": 75081331,
+        "quote": 2825.631
+      },
+      "fdv": 2564,
+      "marketCap": 2564,
+      "pairCreatedAt": 1786640455000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0xd820a594ab9826add733d8b70f8d84ff9a472820",
+      "pairAddress": "0xD820a594aB9826Add733d8b70f8D84FF9A472820",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xB5945212C91f025F384914F176aF19bE441c7777",
+        "name": "HODLQQQ",
+        "symbol": "HODL3Q"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.0004960",
+      "priceUsd": "0.00003395",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 2,
+          "sells": 5
+        },
+        "h6": {
+          "buys": 32,
+          "sells": 40
+        },
+        "h24": {
+          "buys": 298,
+          "sells": 306
+        }
+      },
+      "volume": {
+        "h24": 1963.57,
+        "h6": 190.08,
+        "h1": 24.48,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": -2.8,
+        "h6": -1.84,
+        "h24": -16.27
+      },
+      "liquidity": {
+        "usd": 1024.55,
+        "base": 15085976,
+        "quote": 7483.4236
+      },
+      "fdv": 33816,
+      "marketCap": 33816,
+      "pairCreatedAt": 1786096780000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x11770c4d74fd8ad669bb822abe17a323aa6cacde",
+      "pairAddress": "0x11770c4D74fd8ad669bB822aBe17a323AA6CacdE",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x8c025B35826e6C928769e3C7BA2d999999999999",
+        "name": "ATM",
+        "symbol": "ATM"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.002807",
+      "priceUsd": "0.0001829",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 2,
+          "sells": 1
+        },
+        "h24": {
+          "buys": 21,
+          "sells": 23
+        }
+      },
+      "volume": {
+        "h24": 2.01,
+        "h6": 0.06,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h6": -2.74,
+        "h24": -11.83
+      },
+      "liquidity": {
+        "usd": 2.12,
+        "base": 5820.1665,
+        "quote": 16.3395
+      },
+      "fdv": 3454,
+      "marketCap": 3454,
+      "pairCreatedAt": 1787634164000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x970bd69b2e8f86e56b425e7d2aa5549e47b2aaf2",
+      "pairAddress": "0x970Bd69B2e8F86E56b425e7D2aa5549E47B2aAF2",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+        "name": "ApeSwapFinance Banana",
+        "symbol": "BANANA"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.000000001505",
+      "priceUsd": "0.0000000001003",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 1,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 50,
+          "sells": 60
+        },
+        "h24": {
+          "buys": 62,
+          "sells": 63
+        }
+      },
+      "volume": {
+        "h24": 133.88,
+        "h6": 123.08,
+        "h1": 0.63,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": -1.11,
+        "h6": 21.08,
+        "h24": 40.87
+      },
+      "liquidity": {
+        "usd": 512.5,
+        "base": 2553438119486,
+        "quote": 3843.4985
+      },
+      "fdv": 114807833572,
+      "pairCreatedAt": 1788296295000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x5809d1a466e17dc0d7512282f21f62d07f4010f3",
+      "pairAddress": "0x5809d1a466e17dc0D7512282f21F62d07F4010f3",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x8682BaCE40610Eefcf14b1Af9CCd92b77bf88471",
+        "name": "Subject 3",
+        "symbol": "Subject 3"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.000000001557",
+      "priceUsd": "0.0000000001012",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 2,
+          "sells": 4
+        }
+      },
+      "volume": {
+        "h24": 0.94,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h24": -2.91
+      },
+      "liquidity": {
+        "usd": 4.41,
+        "base": 21790287498,
+        "quote": 33.9357
+      },
+      "fdv": 418983,
+      "marketCap": 418983,
+      "pairCreatedAt": 1788252129000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x7e9453410c974ac5621b0998794c1193ef49479a",
+      "pairAddress": "0x7E9453410c974Ac5621b0998794C1193ef49479a",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xF99adFB621eCE8977da9A748454F0C054Ec980b1",
+        "name": "Taichi",
+        "symbol": "Taichi"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "24.6694",
+      "priceUsd": "1.48",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 1,
+          "sells": 2
+        }
+      },
+      "volume": {
+        "h24": 0.07,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h24": -15.34
+      },
+      "liquidity": {
+        "usd": 0.36,
+        "base": 0.1214,
+        "quote": 2.9952
+      },
+      "fdv": 10263,
+      "marketCap": 10263,
+      "pairCreatedAt": 1785761906000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x51bf195419086d347d1eba92911d804ac1d57ac7",
+      "pairAddress": "0x51bF195419086D347d1Eba92911d804aC1D57aC7",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x353a58D01aFF6CcA3aB8c3532CB2309afFa0FFFF",
+        "name": "Pikachu",
+        "symbol": "Pikachu"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.00005672",
+      "priceUsd": "0.000003866",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 3,
+          "sells": 2
+        },
+        "h24": {
+          "buys": 14,
+          "sells": 17
+        }
+      },
+      "volume": {
+        "h24": 10.03,
+        "h6": 0.72,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h6": 3.2,
+        "h24": 1.26
+      },
+      "liquidity": {
+        "usd": 22.95,
+        "base": 2967678,
+        "quote": 168.3282
+      },
+      "fdv": 3867,
+      "marketCap": 3867,
+      "pairCreatedAt": 1785871481000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x02a25d084405ed8a8672898041d3828ba08fd602",
+      "pairAddress": "0x02a25D084405Ed8a8672898041d3828BA08fD602",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x9ad11bdD133a87072b2EE9822601451bc74b7777",
+        "name": "MARSTOP UI E2E",
+        "symbol": "MSE2E"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.00005134",
+      "priceUsd": "0.000003628",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 0,
+          "sells": 1
+        }
+      },
+      "volume": {
+        "h24": 0.02,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {},
+      "liquidity": {
+        "usd": 0.81,
+        "base": 112666,
+        "quote": 5.7845
+      },
+      "fdv": 3629,
+      "marketCap": 3629,
+      "pairCreatedAt": 1786621237000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x86497b4a0666524ce7b064216b64e7c39994f783",
+      "pairAddress": "0x86497B4a0666524CE7B064216b64e7C39994F783",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x104b8f82FaEC9098449a7B32709013AbB8E27777",
+        "name": "BitcoinBR",
+        "symbol": "BTCBR"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.00004185",
+      "priceUsd": "0.000002778",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 1
+        },
+        "h6": {
+          "buys": 2,
+          "sells": 2
+        },
+        "h24": {
+          "buys": 4,
+          "sells": 5
+        }
+      },
+      "volume": {
+        "h24": 0.25,
+        "h6": 0.14,
+        "h1": 0.02,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": -11.34,
+        "h6": 9.52,
+        "h24": 19.46
+      },
+      "liquidity": {
+        "usd": 0.75,
+        "base": 135362,
+        "quote": 5.6659
+      },
+      "fdv": 2779,
+      "marketCap": 2779,
+      "pairCreatedAt": 1787298547000
+    },
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0xf74588d83dfb893c5d1e641385311e8ce7491ccb",
+      "pairAddress": "0xF74588d83dFb893C5d1E641385311e8ce7491Ccb",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0xd891a3Ee6C3eBAd7515DCFf685C8C271e0D57190",
+        "name": "POS",
+        "symbol": "POS"
+      },
+      "quoteToken": {
+        "address": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+        "name": "MarsCoin",
+        "symbol": "MarsCoin"
+      },
+      "priceNative": "0.0000000001333",
+      "priceUsd": "0.000000000009771",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 0,
+          "sells": 4
+        }
+      },
+      "volume": {
+        "h24": 0.17,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "h24": -45.71
+      },
+      "liquidity": {
+        "usd": 0.53,
+        "base": 27468491589,
+        "quote": 3.6634
+      },
+      "fdv": 227,
+      "marketCap": 227,
+      "pairCreatedAt": 1787617101000
+    }
+  ]
+}

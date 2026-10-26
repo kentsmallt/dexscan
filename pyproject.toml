@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dexscan"
+version = "0.1.0"
+description = "Scan DEX Screener pairs for thin liquidity and abnormal volume. No API key."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Kent" }]
+keywords = ["dexscreener", "cli", "liquidity", "defi"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/kentsmallt/dexscan"
+Documentation = "https://docs.dexscreener.com/api/reference"
+
+[project.scripts]
+dexscan = "dexscan.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["dexscan*"]

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "bsc",
+      "dexId": "pancakeswap",
+      "url": "https://dexscreener.com/bsc/0x3e86d0dac826504c4039d9d0a7005ecedeb3e36c",
+      "pairAddress": "0x3E86D0daC826504c4039D9D0a7005EcEDEB3E36c",
+      "labels": [
+        "v2"
+      ],
+      "baseToken": {
+        "address": "0x118179FC98F245e59b2eCb702652C2355b723364",
+        "name": "Giggle Cat",
+        "symbol": "GICAT"
+      },
+      "quoteToken": {
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB"
+      },
+      "priceNative": "0.000003967",
+      "priceUsd": "0.002729",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 1,
+          "sells": 1
+        },
+        "h6": {
+          "buys": 1246,
+          "sells": 753
+        },
+        "h24": {
+          "buys": 1247,
+          "sells": 753
+        }
+      },
+      "volume": {
+        "h24": 22403.79,
+        "h6": 22204.61,
+        "h1": 47.64,
+        "m5": 0
+      },
+      "priceChange": {
+        "h1": 0.62,
+        "h6": 6.83,
+        "h24": 6.83
+      },
+      "liquidity": {
+        "usd": 42289.23,
+        "base": 7747439,
+        "quote": 30.7379
+      },
+      "fdv": 272924,
+      "marketCap": 272924,
+      "pairCreatedAt": 1767008392000
+    }
+  ]
+}

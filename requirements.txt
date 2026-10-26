@@ -1,0 +1,5 @@
+# dexscan 0.1 uses only the Python 3.10+ standard library.
+# There are no third-party packages to install.
+#
+# Optional, to put the `dexscan` command on PATH:
+#   pip install -e .
